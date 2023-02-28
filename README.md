@@ -7,4 +7,4 @@ link:
 
 [clique aqui](https://www.portaldaindustria.com.br/industria-de-a-z/robotica/)
 
-![Uploading download.jpg…]
+![Uploading download.jpg…]()
